@@ -1,1 +1,7 @@
-["A1328"]
+{
+  "apikeys": [
+    "falcon-api",
+    "user-test-123",
+    "premium-key-xyz"
+  ]
+}
